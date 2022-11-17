@@ -1,4 +1,4 @@
-<?php
+<!DOCTYPE html>
 <html><head><meta charset="UTF-8"><meta content="width=device-width, initial-scale=1, user-scalable=1, minimum-scale=1, maximum-scale=5" name="viewport"><meta content="IE=edge" http-equiv="X-UA-Compatible"><link href="https://feeldreams.github.io/singkat/style.css" rel="stylesheet" type="text/css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
@@ -97,4 +97,3 @@
 <!-- Sampai Sini -->
 
 </body></html>
-?>
